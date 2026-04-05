@@ -5,10 +5,12 @@ A responsive front-end application built with **React** and **Tailwind CSS**, re
 ## Screenshots
 
 ### Screen 1 — Home Screen
+![alt text](public/ss1.png)
 The main Knowledge Base page displaying article cards in a 3-column grid with search, pagination, and a "Create New" button.
 
 ### Screen 2 — Create New Modal
 A slide-in panel triggered by the "Create New" button, containing a form to create a new Knowledge Base entry.
+![alt text](public/ss2.png)
 
 ---
 
